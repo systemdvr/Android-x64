@@ -2,13 +2,13 @@
 //// Android-x64_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Android x64 project repositories by @seanpm2001
-//// As of 2024, Wednesday, November 27th
+//// As of 2024, Thursday, November 28th
 
 //// ----------------------------------------------------- \\\\
 //// Android x64 Project
 //// ----------------------------------------------------- \\\\
 
-//// Android x64 Project (86)
+//// Android x64 Project (89)
 https://github.com/seanpm2001/Android-x64_Workspace_Firefox
 https://github.com/seanpm2001/Android-x64
 https://github.com/seanpm2001/Android-x64_Docs
@@ -95,10 +95,13 @@ https://github.com/seanpm2001/Android-x64_LiveCD_15A
 https://github.com/seanpm2001/Android-x64_Android16.0_LiveCD_Edition
 https://github.com/seanpm2001/Android-x64_Android16.0_DeGoogled_Edition
 https://github.com/seanpm2001/Android-x64_LiveCD_16A
+https://github.com/seanpm2001/Android-x64_Android16.0_Vanilla_Edition
+https://github.com/seanpm2001/Android-x64_Android16.0_Heavy_Edition
+https://github.com/seanpm2001/Android-x64_Android16.1_LiveCD_Edition
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (Android x64): 86
-//// 86+0
+//// Repo count (Android x64): 89
+//// 89+0
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -113,15 +116,15 @@ https://github.com/seanpm2001/Android-x32x64x128
 //// Repo count (See also): 4
 //// 4+0
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 90
-//// 86+4=90
+//// Total repo count: 93
+//// 89+4=93
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 1 (2024, Wednesday, November 27th at 05:49 pm PST)
-//// Line count (including blank lines and compiler line): 128
+//// File version: 2 (2024, Thursday, November 28th at 07:24 pm PST)
+//// Line count (including blank lines and compiler line): 131
 //// ----------------------------------------------------- \\\\
 
 //// End of file
