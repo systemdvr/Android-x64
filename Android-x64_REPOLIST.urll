@@ -2,13 +2,13 @@
 //// Android-x64_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Android x64 project repositories by @seanpm2001
-//// As of 2024, Saturday, November 30th
+//// As of 2024, Sunday, December 1st
 
 //// ----------------------------------------------------- \\\\
 //// Android x64 Project
 //// ----------------------------------------------------- \\\\
 
-//// Android x64 Project (96)
+//// Android x64 Project (100)
 https://github.com/seanpm2001/Android-x64_Workspace_Firefox
 https://github.com/seanpm2001/Android-x64
 https://github.com/seanpm2001/Android-x64_Docs
@@ -105,10 +105,14 @@ https://github.com/seanpm2001/Android-x64_Android15.1_LiveCD_Edition
 https://github.com/seanpm2001/Android-x64_Android15.1_DeGoogled_Edition
 https://github.com/seanpm2001/Android-x64_Android15.1_Vanilla_Edition
 https://github.com/seanpm2001/Android-x64_Android15.1_Heavy_Edition
+https://github.com/seanpm2001/Android-x64_Android14.1_LiveCD_Edition
+https://github.com/seanpm2001/Android-x64_Android14.1_DeGoogled_Edition
+https://github.com/seanpm2001/Android-x64_Android14.1_Vanilla_Edition
+https://github.com/seanpm2001/Android-x64_Android14.1_Heavy_Edition
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (Android x64): 96
-//// 96+0
+//// Repo count (Android x64): 100
+//// 100+0
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -123,15 +127,15 @@ https://github.com/seanpm2001/Android-x32x64x128
 //// Repo count (See also): 4
 //// 4+0
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 100
-//// 96+4=100
+//// Total repo count: 104
+//// 100+4=104
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 4 (2024, Saturday, November 30th at 10:27 pm PST)
-//// Line count (including blank lines and compiler line): 138
+//// File version: 5 (2024, Sunday, December 1st at 09:09 pm PST)
+//// Line count (including blank lines and compiler line): 142
 //// ----------------------------------------------------- \\\\
 
 //// End of file
