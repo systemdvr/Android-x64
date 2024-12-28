@@ -2,13 +2,13 @@
 //// Android-x64_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Android x64 project repositories by @seanpm2001
-//// As of 2024, Friday, December 6th
+//// As of 2024, Friday, December 27th
 
 //// ----------------------------------------------------- \\\\
 //// Android x64 Project
 //// ----------------------------------------------------- \\\\
 
-//// Android x64 Project (102)
+//// Android x64 Project (104)
 https://github.com/seanpm2001/Android-x64_Workspace_Firefox
 https://github.com/seanpm2001/Android-x64
 https://github.com/seanpm2001/Android-x64_Docs
@@ -111,10 +111,12 @@ https://github.com/seanpm2001/Android-x64_Android14.1_Vanilla_Edition
 https://github.com/seanpm2001/Android-x64_Android14.1_Heavy_Edition
 https://github.com/seanpm2001/Android-x64_Workspace_Firefox_Docs
 https://github.com/seanpm2001/Android-x64_Android5.0_LiveCD_Edition_Docs
+https://github.com/seanpm2001/Android-x64_Android5.0_DeGoogled_Edition_Docs
+https://github.com/seanpm2001/Android-x64_Android5.0_Vanilla_Edition_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (Android x64): 102
-//// 102+0
+//// Repo count (Android x64): 104
+//// 104+0=104
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -127,17 +129,17 @@ https://github.com/seanpm2001/Android-x32x64x128
 
 //// ----------------------------------------------------- \\\\
 //// Repo count (See also): 4
-//// 4+0
+//// 4+0=4
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 106
-//// 102+4=106
+//// Total repo count: 108
+//// 104+4=108
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 7 (2024, Friday, December 6th at 06:51 pm PST)
-//// Line count (including blank lines and compiler line): 144
+//// File version: 8 (2024, Friday, December 27th at 04:08 pm PST)
+//// Line count (including blank lines and compiler line): 146
 //// ----------------------------------------------------- \\\\
 
 //// End of file
